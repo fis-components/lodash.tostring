@@ -1,0 +1,10 @@
+{
+    "name": "lodash.tostring",
+    "description": "The lodash method `_.toString` exported as a module.",
+    "repos": "https://github.com/lodash/lodash.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "main": "index.js",
+    "version": "4.0.0"
+}
